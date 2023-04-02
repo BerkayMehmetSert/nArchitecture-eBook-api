@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
 ```
-git clone 
+git clone https://github.com/BerkayMehmetSert/nArchitecture-eBook-api.git
 ```
 
 2. Open the solution file `nArchitecture.eBook.sln` in Visual Studio or running `dotnet run` in a terminal window
